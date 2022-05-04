@@ -1,7 +1,7 @@
 # WebTechAssignment2
 Repo containing a READ ME file for WebTechAssignment2
 Suleman Vohra, G20962581
-URL to project- https://vesta.uclan.ac.uk/~SVohra3/Introduction_php/Home.php
+URL to project- https://vesta.uclan.ac.uk/~SVohra3/Vohra-Suleman_G20962581_assignment-two/Home.php
 FTP access using FileZilla:
 /public_html/Vohra-Suleman_G20962581_assignment-two
 Host:vesta.uclan.ac.uk
