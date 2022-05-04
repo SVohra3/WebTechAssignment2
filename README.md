@@ -4,13 +4,18 @@
 ### URL to project- https://vesta.uclan.ac.uk/~SVohra3/Vohra-Suleman_G20962581_assignment-two/Home.php
 ### FTP access using FileZilla:
 /public_html/Vohra-Suleman_G20962581_assignment-two
+
 Host:vesta.uclan.ac.uk
+
 Username: SVohra3
+
 Password: kAkQmWjNj5sG
 
 ### MySQL access:
 https://vesta.uclan.ac.uk/phpmyadmin/
+
 Username:SVohra3
+
 Password: kAkQmWjNj5sG
 
 ### Sign into shopping cart:
