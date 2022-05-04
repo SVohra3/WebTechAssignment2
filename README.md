@@ -3,6 +3,7 @@
 # Suleman Vohra, G20962581
 ### URL to project- https://vesta.uclan.ac.uk/~SVohra3/Vohra-Suleman_G20962581_assignment-two/Home.php
 ### FTP access using FileZilla:
+
 /public_html/Vohra-Suleman_G20962581_assignment-two
 
 Host:vesta.uclan.ac.uk
@@ -25,7 +26,10 @@ Password: $2y$11$qb1ntDRbEvqsXK9It8WUTON/tm4/yNdJcYNWhOAC7VtSCsRCZCUJy
 
 ### Reflection:
 
+The solution contains a home page with navigation links to all other pages. The solution uses php to communicate with the server and extracts the offers data from tbl_offers. The prodcuts page before was hard coded but this time I have used php to select and bring in the data via sql query. What I noticed now from assessment 1 is how important databases and using php is to make your code streamlined and easy to change. The prodcuts.php page includes tags to Jump.php and Shirts.php which include their relevant product types respectively. The solution includes a SignUp.php page where a first time user may create an account upon which their details are saved into the dB in tbl_users. The solution has a shopping cart page where a previous user can sign in either to continue their shopping or a first time user signing to save their shopping cart items. Unfortunately, this functional implementation does not 100% work as there are bugs.
+
 ### Bibliography:
+
 [1]- Singh, Y. (2016). Create Simple Login Page with PHP and MySQL. [online] Makitweb. Available at: https://makitweb.com/create-simple-login-page-with-php-and-mysql/ [Accessed 1 May 2022].
 
 [2]- by (n.d.). PHP program to create Login and Logout using Sessions - W3schools. [online] W3spoint. Available at: https://www.w3schools.blog/php-program-to-create-login-and-logout-using-sessions [Accessed 1 May 2022].
