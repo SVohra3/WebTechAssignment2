@@ -52,3 +52,5 @@ The solution contains a home page with navigation links to all other pages. The 
 
 [11]- W3schools.com. (2019). PHP Form Handling. [online] Available at: https://www.w3schools.com/php/php_forms.asp.
 
+[12]- CodexWorld (2017). Store and Retrieve Image from MySQL Database using PHP. [online] CodexWorld. Available at: https://www.codexworld.com/store-retrieve-image-from-database-mysql-php/.
+
